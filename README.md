@@ -12,7 +12,7 @@ A quick start sample project demonstrating how to integrate Cloudinary's image a
 ## Prerequisites
 
 - Node.js 22 or later
-- This project uses `next-cloudinary` version 7, which requires Next.js 16 or later and React 18.2 or 19
+- This project uses `next-cloudinary` version 7, which requires Next.js 16 and React 18.2 or 19
 - A Cloudinary account ([sign up for free](https://cloudinary.com/users/register/free))
 - Your Cloudinary credentials:
   - Cloud Name
